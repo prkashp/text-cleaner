@@ -20,7 +20,10 @@ if __name__=='__main__':
             .getOrCreate()
     
     text = extractor.getText(url=url)
-    dF = spark.createDataFrame(text)
+    PATH = 'data/text.txt'
+    with open(PATH, "w") as text_file:
+        text_file.write(text)
+    dF = spark.read.text(PATH)
     cleaned_text=dF.map(lambda x: cleaner.cleaned(x))
     sentiment = cleaned_text.map(lambda x: cleaner.sentiment(x))
     loader.insert(text,cleaned_text,sentiment)
