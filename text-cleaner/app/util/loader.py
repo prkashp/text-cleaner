@@ -6,8 +6,7 @@ def insert(text,cleaned_text, sentiments):
     es = Elasticsearch()
 
     doc = {
-        'title': text.key,
-        'text': text.value,
+        'text': text,
         'cleaned': cleaned_text,
         'sentiment': sentiments,
         'timestamp': datetime.now()
