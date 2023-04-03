@@ -20,8 +20,9 @@ if __name__=='__main__':
             .getOrCreate()
     
     text = extractor.getText(url=url)
-    PATH = 'data/text.txt'
-    with open("data/text.txt", "w") as text_file:
+    os.chdir(r'/Users/prakash/Documents/Projects/text-cleaner/data')
+    PATH = 'text.txt'
+    with open("text.txt", "w") as text_file:
         text_file.write(text)
     dF = spark.read.text(PATH)
     cleaned_text=dF.map(lambda x: cleaner.cleaned(x))

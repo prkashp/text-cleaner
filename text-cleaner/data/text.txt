@@ -1,0 +1,27 @@
+Chess opening
+
+Chess opening
+
+Bongcloud Attack a b c d e f g h 8 8 7 7 6 6 5 5 4 4 3 3 2 2 1 1 a b c d e f g h Moves 1.e4 e5 2.Ke2 ECO C20 Parent Open Game
+
+The Bongcloud Attack or Bongcloud Opening is an unorthodox chess opening that consists of the moves:
+
+It is considered a joke opening, and is associated with internet chess humor. Being a poor move, its usage can suggest a self-imposed challenge. Twitch streamers such as Grandmaster Hikaru Nakamura have used it in online blitz chess, including in games against high-level opponents, as has World Chess Champion Magnus Carlsen. The name has also been applied to other opening sequences in which a player moves the king on move two.
+
+Background [ edit ]
+
+The opening's name is thought to originate either from Chess.com user "Lenny_Bongcloud", who used the opening with little success,[1] or more generally in reference to a bong, a device used to smoke cannabis, a humorous assertion that one would need to be intoxicated to think that using the opening is a legitimate strategy. The opening's usage in chess humor was furthered by Andrew Fabbro's joke manual Winning With the Bongcloud.[2][3]
+
+The Bongcloud Attack violates several accepted principles of chess strategy by forgoing castling, impeding the movement of both the queen and the light-squared bishop, leaving the king exposed, wasting a tempo, and doing nothing to improve White's position. The lack of any redeeming feature, unlike some other dubious openings, puts the Bongcloud well outside of conventional practice.
+
+High-level usage [ edit ]
+
+GM Hikaru Nakamura has used the Bongcloud Attack in online blitz games. He streamed himself using the opening exclusively on a new Chess.com account and reached 3000 rating.[3] In 2018, Nakamura played the Bongcloud three times against GM Levon Aronian during the Chess.com Speed Chess Championship, winning one and losing two.[4] Nakamura also played the Bongcloud against GM Vladimir Dobrov in the 3+1 section and GM Wesley So in the 1+1 section of the 2019 Speed Chess Championship, winning both of those games.[5][6] On 19 September 2020, Nakamura used the opening against GM Jeffery Xiong in the final round of the St. Louis Rapid and Blitz tournament which was played on Lichess with a 5+3 time control and won the game.[7]
+
+On 15 March 2021, Magnus Carlsen, playing white, led with the Bongcloud in a game against Nakamura at the Magnus Carlsen Invitational. Nakamura mirrored the opening with 2. ... Ke7, leading to a position nicknamed the "Double Bongcloud".[3] The game was intentionally drawn by threefold repetition after the players immediately repeated moves, the particular sequence they used known as the "Hotbox Variation". The game occurred in the last round of the preliminary stage of the tournament, and both players had already qualified for the following knockout stage, making the game dead rubber. It marked the first recorded occurrence of 1. e4 e5 2. Ke2 Ke7 in a major tournament.[3][8]
+
+Despite its obvious disadvantages, usage of such a "joke" opening can also have a psychological impact: following Carlsen's win over Wesley So in a 2020 blitz tournament with a 3+2 time control where he played 1.f3 (the Barnes Opening) followed by 2.Kf2 – a variant also named the "Bongcloud"[9][10] – So noted that losing the game after such an opening had a crushing impact.[3]
+
+The first use of the joke opening in a FIDE rated game between top grandmasters occurred during the Chess.com Global Championship finals in November 2022 which was an in-person rapid event played on Chess.com. Trailing 3-0 in his knockout match against Hikaru Nakamura, Polish GM Jan-Krzysztof Duda played 1.e3 and 2.Ke2. Duda lost the game after missing some chances to equalise.[11]
+
+See also [ edit ]
