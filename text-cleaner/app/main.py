@@ -21,7 +21,7 @@ if __name__=='__main__':
     
     text = extractor.getText(url=url)
     PATH = 'data/text.txt'
-    with open(PATH, "w") as text_file:
+    with open("data/text.txt", "w") as text_file:
         text_file.write(text)
     dF = spark.read.text(PATH)
     cleaned_text=dF.map(lambda x: cleaner.cleaned(x))
